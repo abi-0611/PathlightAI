@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+osmnx==2.0.7
+networkx==3.4.2
+shapely==2.0.6
+python-dotenv==1.0.1
+httpx==0.28.1
+numpy==2.2.4
+pandas>=2.0.0
+scipy>=1.10.0
+pydantic==2.9.2
+scikit-learn==1.8.0

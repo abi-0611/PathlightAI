@@ -1,0 +1,44 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# OSMnx / data cache
+cache/
+data/
+
+# Prompt & spec files
+*-prompt.md
+guduvancheri-prompt.md
+safe-route-agent-prompt.md
+Hackathon Blueprint_*
+
+# Todos
+todos/
+
+# Error / screenshot images
+*.png
+*.jpg
+*.jpeg
+
+# Frontend
+pathlight-frontend/node_modules/
+pathlight-frontend/dist/
+pathlight-frontend/.env
+pathlight-frontend/.env.local
+pathlight-frontend/.env.*.local
+
+# Misc
+.DS_Store
+Thumbs.db
