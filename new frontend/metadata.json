@@ -1,0 +1,5 @@
+{
+  "name": "PathLight AI",
+  "description": "A real-time personal safety routing application with a Mission Control Dark aesthetic.",
+  "requestFramePermissions": ["geolocation"]
+}
